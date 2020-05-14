@@ -16,6 +16,7 @@ function sensors_success() {
 
 function sensors_fail() {
     result.style.color = "red";
+    output.innerHTML = "Launching sensors failed. Is it installed?";
 }
 
 function sensors_output(data) {
