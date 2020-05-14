@@ -1,0 +1,9 @@
+{
+    "version": 0,
+
+    "tools": {
+        "read_sensors": {
+            "label": "Sensors",
+            "path": "sensors.html"
+        }
+    }
